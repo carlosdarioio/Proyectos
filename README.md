@@ -1,24 +1,32 @@
-# gr-yuju-vue2
+# Proyectos en los que he trabajo
+## Comparto lista de sitios web en los que he trabajado 
 
-## Project setup
+### Consulab
 ```
-npm install
+https://consulabempleos.com/?view=home&d=welcome
 ```
-
-### Compiles and hot-reloads for development
+### Consulab App Android
 ```
-npm run serve
+https://play.google.com/store/apps/details?id=com.consulabempleos.www&hl=es
 ```
-
-### Compiles and minifies for production
+### Consulab App iOS
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+https://apps.apple.com/us/app/consulab/id1571157055
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Aforo
+```
+https://www.grtoolshn.com/
+```
+
+### Gym Unifit
+```
+http://64.225.43.182/
+```
+### Femosa
+```
+https://www.femosa.hn/
+```
+
+### Tengo muchos otros proyectos pero no los muestro por seguridad ya que no estan al publico
+Saludos.
