@@ -28,5 +28,5 @@ http://64.225.43.182/
 https://www.femosa.hn/
 ```
 
-### Tengo muchos otros proyectos pero no los muestro por seguridad ya que no estan al publico
+### Tengo otros proyectos pero no los muestro por seguridad ya que son de uso interno,
 Saludos.
