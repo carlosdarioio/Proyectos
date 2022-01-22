@@ -33,6 +33,12 @@ https://www.grtoolshn.com/
 ```
 http://64.225.43.182/
 ```
+
+### Laravel Vue3
+```
+http://143.198.53.31:33/blank
+```
+
 ### Femosa 
 ```
 https://www.femosa.hn/
