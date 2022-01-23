@@ -34,9 +34,10 @@ https://www.grtoolshn.com/
 http://64.225.43.182/
 ```
 
-### Laravel Vue3
+### Laravel Vue3 (pending urls correction)
 ```
-http://143.198.53.31:33/blank
+backend: http://143.198.53.31:33/backend/public/api/test
+frontend: http://143.198.53.31:33/blank
 ```
 
 ### Femosa 
