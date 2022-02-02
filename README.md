@@ -3,7 +3,7 @@
 
 ### capluslifeaapp Android
 ```
-En Desarrollo
+https://play.google.com/store/apps/details?id=com.grt.capluslifeapp
 ```
 
 ### capluslifeaapp web
