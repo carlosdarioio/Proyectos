@@ -1,4 +1,4 @@
-# Proyectos en los que he trabajo
+# Proyectos en los que he trabajado
 ## Ultimos proyectos en los que he trabajado 
 
 ### capluslifeaapp iOS
