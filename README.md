@@ -31,7 +31,7 @@ https://apps.apple.com/us/app/consulab/id1571157055
 
 ### Aforo
 ```
-https://www.grtoolshn.com/
+http://164.92.71.43:82/
 ```
 
 ### Gym Unifit (Gym no paga ssl)
