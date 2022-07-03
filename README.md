@@ -36,7 +36,7 @@ https://www.grtoolshn.com/
 
 ### Gym Unifit (Gym no paga ssl)
 ```
-http://64.225.43.182/
+http://164.92.71.43:9090/
 ```
 
 ### Laravel Vue3 (pending urls correction)
