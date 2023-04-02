@@ -45,10 +45,7 @@ backend: http://143.198.53.31:33/backend/public/api/test
 frontend: http://143.198.53.31:33/blank
 ```
 
-### Femosa 
-```
-https://www.femosa.hn/
-```
+
 
 ### Tengo otros proyectos pero no los muestro por seguridad ya que son de uso interno,
 Saludos.
