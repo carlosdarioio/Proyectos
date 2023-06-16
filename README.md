@@ -1,10 +1,32 @@
 # Proyectos en los que he trabajado
 ## Ultimos proyectos en los que he trabajado 
 
-### capluslifeaapp iOS
+
+### Copemsa Portal de clientes
 ```
-En Desarrollo
+https://www.copemsa.hn/portal/
 ```
+
+### Copemsa
+```
+https://www.copemsa.hn/
+```
+
+### Grupo Montecristo
+```
+https://www.grupomontecristo.hn/
+```
+
+### Residencial Toledo Android
+```
+https://play.google.com/store/apps/details?id=com.residencialtoledohn.website
+```
+
+### Residencial Toledo Web
+```
+https://residencialtoledohn.website/
+```
+
 
 ### capluslifeaapp Android
 ```
