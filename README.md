@@ -55,7 +55,7 @@ https://play.google.com/store/apps/details?id=com.consulabempleos.www&hl=es
 https://apps.apple.com/us/app/consulab/id1571157055
 ```
 
-### Aforo(Gym no paga ssl)
+### GrTools (no paga ssl)
 ```
 http://164.92.71.43:82/
 ```
