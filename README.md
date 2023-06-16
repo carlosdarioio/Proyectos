@@ -38,6 +38,10 @@ https://play.google.com/store/apps/details?id=com.grt.capluslifeapp
 https://capluslifeapp.com/
 ```
 
+### Consulab Tesis (no paga ssl)
+```
+http://68.183.109.253:85/
+```
 ### Consulab
 ```
 https://consulabempleos.com/
