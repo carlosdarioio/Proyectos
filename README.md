@@ -55,23 +55,10 @@ https://play.google.com/store/apps/details?id=com.consulabempleos.www&hl=es
 https://apps.apple.com/us/app/consulab/id1571157055
 ```
 
-### Aforo
+### Aforo(Gym no paga ssl)
 ```
 http://164.92.71.43:82/
 ```
-
-### Gym Unifit (Gym no paga ssl)
-```
-http://164.92.71.43:9090/
-```
-
-### Laravel Vue3 (pending urls correction)
-```
-backend: http://143.198.53.31:33/backend/public/api/test
-frontend: http://143.198.53.31:33/blank
-```
-
-
 
 ### Tengo otros proyectos pero no los muestro por seguridad ya que son de uso interno,
 Saludos.
