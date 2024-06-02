@@ -8,7 +8,7 @@ https://arquitectoshonduras.org/
 ```
 #App Ios
 ```
-[http://167.99.227.18:83/](https://apps.apple.com/lv/app/cah-arquitectos-honduras/id6478811765)
+https://apps.apple.com/lv/app/cah-arquitectos-honduras/id6478811765
 ```
 
 ### Grupo Genesis
